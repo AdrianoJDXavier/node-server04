@@ -1,0 +1,22 @@
+{
+  "name": "server04",
+  "version": "1.0.0",
+  "description": "Tarefa 04 da Disciplina de Back-End ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoJDXavier/node-server04.git"
+  },
+  "author": "Adriano Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoJDXavier/node-server04/issues"
+  },
+  "homepage": "https://github.com/AdrianoJDXavier/node-server04#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
